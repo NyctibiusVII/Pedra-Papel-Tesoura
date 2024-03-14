@@ -1,0 +1,5 @@
++ REGRAS
+- Opção == Opção = Empate
+- Tesoura > Papel
+- Papel > Pedra
+- Pedra > Tesoura

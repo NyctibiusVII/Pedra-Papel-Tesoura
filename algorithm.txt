@@ -1,0 +1,13 @@
++ User entra com a opção (Pedra; Papel; Tesoura)
+- Através de escolhas apresentadas.
+
++ Script entra com a opção (Pedra; Papel; Tesoura)
+- Através da função random.choice(['Pedra', 'Papel', 'Tesoura']).
+
++ Se Empata
+- Nova rodada.
+
++ Se Opção 1 > Opção 2
+- Informar ganhador 1 (vice-versa).
+-- Opção x (quebra, embrulha, corta) Opção y.
+- Perguntar se deseja jogar novamente.
